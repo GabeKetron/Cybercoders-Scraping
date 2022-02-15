@@ -1,0 +1,1032 @@
+,city,state,salary_lower,salary_upper,preferred_skill,need_for_position,job_id,post_date
+0,Ann Arbor,MI • Houston,110000,180000,".NET, C#, REACT, React.JS, Angular.js, Senior Software Engineer, Sr Software Engineer, Senior Software Developer, Sr. Software Developer, SQL","- .NET - C# 
+- REACT 
+- React.JS 
+- Angular.js 
+- Senior Software Engineer 
+- Sr Software Engineer 
+- Senior Software Developer 
+- Sr. Software Developer 
+- SQL",AG17-1674760,02/14/2022
+1,San Francisco,CA • Palo Alto,140000,190000,"React.JS, Node.js, Senior Software Engineer, Senior Software Developer, Application Developer, REACT, JavaScript, CSS, HTML, Redux","- React.JS - Node.js 
+- Senior Software Engineer 
+- Senior Software Developer 
+- Application Developer 
+- REACT 
+- JavaScript 
+- CSS 
+- HTML 
+- Redux",AG17-1674756,02/14/2022
+2,Seattle,WA • New York,180000,225000,"Ruby On Rails, ROR, REACT, Senior Software Developer, Software Developer, Software Engineer, JavaScript","At least 10 years experience and B.S. in C.S. or equivalent required and: 
+- Ruby On Rails ( >7 years required) 
+- ROR (>7 years required) 
+- REACT (strongly preferred) 
+- JavaScript 
+- Senior Software Developer 
+- Software Developer 
+- Software Engineer 
+- Experience with start-up companies is strongly preferred",AG17-1671934,01/27/2022
+3,Boston,MA,100000,140000,"Software Engineer, Ruby On Rails, REACT","- 3+ years developing software in commercial environment - 2+ years of experience with Ruby 
+- Experience in building RESTful APIs 
+- 2+ years of experience with frontend frameworks (ideally React) 
+- Experience in building integrations with third-party APIs with REST, SOAP, XMLRPC, etc 
+- Experience in writing unit tests, functional tests, integration tests 
+- Network and microservices infrastructure understanding",LP10-1660041,12/07/2021
+4,Santa Barbara,CA,100000,130000,"Software Engineer, Ruby On Rails, REACT","- 3+ years developing software in commercial environment - 2+ years of experience with Ruby 
+- Experience in building RESTful APIs 
+- 2+ years of experience with frontend frameworks (ideally React) 
+- Experience in building integrations with third-party APIs with REST, SOAP, XMLRPC, etc 
+- Experience in writing unit tests, functional tests, integration tests 
+- Network and microservices infrastructure understanding",LP10-1655928,11/03/2021
+5,Lone Tree,CO,120000,175000,"Software Engineer, C++, C#","- 3+ Years Experience as a Software Engineer - Software-related experience, such as programming/development, testing, script writing, etc. is a plus. 
+- NavAIR, NAWCWD, EW, software development, and systems engineering experience is a plus. 
+- Experience with the integration of complex applications, DI2E development tools, Atlassian issue tracking application, Jira bug tracking and agile project  
+   management. 
+- Knowledge of FMS programs is a plus. 
+- Excellent communication and interpersonal skillsverbal, non-verbal, written, and listeningfor staff, customer and organizational level communications,  
+   both formal and informal. 
+- Ability to work independently or lead a small team; self-starter.",AM20-1667110,12/21/2021
+6,Orange,CA,160000,200000,"C++, Java, TCP/IP, Cisco, securex, ForeScout, Aruba, Agile, SCRUM, Software Engineer","Required: -7+ Years of development experience 
+- C++ 
+- Java 
+- TCP/IP 
+ 
+Preferred : 
+- Cisco 
+- securex 
+- ForeScout 
+- Aruba 
+- Agile 
+- SCRUM",DF7-1672354,01/31/2022
+7,San Jose,CA,160000,200000,"C++, Java, TCP/IP, Cisco, securex, ForeScout, Aruba, Agile, SCRUM, Software Engineer","Required: -7+ Years of development experience 
+- C++ 
+- Java 
+- TCP/IP 
+ 
+Preferred : 
+- Cisco 
+- securex 
+- ForeScout 
+- Aruba 
+- Agile 
+- SCRUM",DF7-1672362,02/04/2022
+8,San Francisco,CA,160000,200000,"C++, Java, TCP/IP, Cisco, securex, ForeScout, Aruba, Agile, SCRUM, Software Engineer","Required: -7+ Years of development experience 
+- C++ 
+- Java 
+- TCP/IP 
+ 
+Preferred : 
+- Cisco 
+- securex 
+- ForeScout 
+- Aruba 
+- Agile 
+- SCRUM",DF7-1672364,01/31/2022
+9,Bozeman,MT,110000,130000,"Devops, Engineer, Software, Technologies","5-10+ years of experience  Strong interpersonal skills 
+Ability to communicate clearly and concisely, both orally and in writing",VP5-1671111,01/29/2022
+10,Bozeman,MT,110000,130000,"Devops, Engineer, Software, Technologies","5-10+ years of experience  Strong interpersonal skills 
+Ability to communicate clearly and concisely, both orally and in writing",VP5-1672286,01/29/2022
+11,Plano,TX,100000,120000,"C++, Scripting, BAT, Python, Shell, Groovy, Java, Golang, Plastic SCM Experience, Software Engineer","
+-Jenkins experience 
+-Octopus experience 
+-Scripting experience (bat, python, shell, groovy) 
+-C++ experience 
+-Java experience 
+-GoLang experience 
+-Plastic SCM experience",SL5-1666071,01/20/2022
+12,Plano,TX,75000,120000,"C, C++, Golang, TypeScript, NodeJS, Product Development, Agile, SAFE, Warehouse Automation, Software Engineer","- 2+ years of Software Engineering experience - Any of the languages such as Java, Golang, C++, Javascript Nodejs, Typescript,  or Postgres 
+- Experience in a Product Development Environment is a plus 
+- Ability to travel to HQ or customer sites (less than 20% travel)",SL5-1651186,10/01/2021
+13,Raleigh,NC,100000,150000,"Software Engineer, C++, Matlab, Python, SimuLink, DoD, department of defense, Security Clearance, Radar, prototype algorithm","REQUIRED: Secret Clearance, DoD Clearance, TS/SCI 
+PREFERRED QUALIFICATIONS:  
+- Knowledge of programming languages (such as C/C++, MATLAB, Python, Simulink). 
+- Ability to contribute in a team environment to develop creative solutions to technical challenges. 
+- Experience with digital signal processing, probability theory, stochastic signal processing and machine learning.",AH13-1671093,01/27/2022
+14,Fort Worth,TX,110000,130000,"Software Engineer, Software Development, JavaScript, REACT, PHP, Agile, RESTful Web Services, C#, SQL, .NET Core","Responsibilities: 
+- Develops new functionality and maintains existing components of the companies solutions 
+- Participate in the Agile process, attend daily standups, sprint planning and retros 
+- Design highly scalable, testable code 
+- Participate in the Agile process, attend daily standups, sprint planning and retros 
+- Participate in peer code reviews 
+- Discover and correct programming bugs 
+ 
+Qualifications: 
+ 
+- Bachelor's degree or equivalent experience in Computer Science or related field 
+- 5+ years of software engineer experience 
+- Strong experience with test driven design 
+- Strong experience with software documentation and design 
+- Experience building and documenting RESTful APIs 
+- SQL database or relational database skills 
+- Strong in C# and .Net core 
+- Experience working with modern JavaScript frameworks such as React 
+- Experience with Docker or Kubernetes a plus 
+- Node experience a plus",TH5-1664291,12/14/2021
+15,Sharon,MA,120000,130000,"Software Engineer, Workflow processes, Workflow Platform, BPM/Workflow Tools, SQL Queries, C#, SCRUM, JReport, Power B","Bachelor's Degree in Computer Science or related degree 3-5 years of experience in the field or in a related area 
+No-Code Process Automation platforms (Decisions, Kissflow, UiPath RPA) 
+Reporting tools such as Jreport, Power B  
+Knowledge or experience with any BPM/Workflow tools: Decisions, Kissflow, UiPath RPA  
+Writing SQL queries 
+SCRUM experience 
+Excellent problem-solving skills to diagnose product issues  
+Ability to work effectively within a small team   
+Communication with customers will also be required on a limited basis  
+Strong communication skills both oral and written 
+High-level analytical skills 
+ 
+Big Pluses: 
+C# skills   
+JIRA",NG-1673470,02/04/2022
+16,Durham,NC,120000,150000,"Software Engineer, C++, Matlab, Python, SimuLink, DoD, department of defense, Security Clearance, Radar, prototype algorithm","REQUIRED: Secret Clearance, DoD Clearance, TS/SCI 
+PREFERRED QUALIFICATIONS:  
+- Knowledge of programming languages (such as C/C++, MATLAB, Python, Simulink). 
+- Ability to contribute in a team environment to develop creative solutions to technical challenges. 
+- Experience with digital signal processing, probability theory, stochastic signal processing and machine learning.",AH13-1672221,02/11/2022
+17,Laramie,WY,80000,140000,"Software Engineer, GUI Interfaces, Linux, C++, Lua, ISO 9001, IBM RTC, C#, .NET","- Software Engineer - GUI Interfaces 
+- Linux 
+- C++ 
+- Lua 
+- ISO 9001 
+- IBM RTC 
+- C# 
+- .NET 
+- Agile 
+- Revision control",KK7-1666809,12/17/2021
+18,Los Angeles,CA • Portland,110000,150000,"Node.js, node engineer, REACT, React Engineer, Front End, Front End Architecture, cloud infrastructure, CI/CD, Restful Services, NodeJS",,JC20-1672348,02/09/2022
+19,Fort Lauderdale,FL,100000,130000,"Engineer, C#, Linux, OpenWRT, WRT, open WRT","Required: - C# 
+- Linux 
+- OpenWRT",AM20-1664983,02/09/2022
+20,Washington,DC • San Antonio,130000,200000,"Engineer, C, C++, Linux, C#, C Sharp","Required: - 3+ Years Exp. in Related Field 
+- React.JS 
+- Node.JS 
+- Typescript 
+-Java 
+Preferred: 
+- 7+ years of C# or Java",AM20-1672018,01/27/2022
+21,Montville,NJ • New York,100000,130000,"C#, .NET Core, .NET, ASP.NET, Angular, SQL Server, WebAPI, Mobile Applications development, JavaScript, Applications Developer","- Minimum of 3 years of experience working with C# - Minimum of 3 years of experience working with SQL  
+ 
+Preferred (Not Required): 
+-  Experience with JavaScript (Angular), jQuery, MVC, .Net Core, WebAPI desired  
+- Professional experience in creating mobile applications  
+- E-commerce website Development 
+- Cloud computing\development - Azure  
+- Data security & encryption",JD14-1669930,02/02/2022
+22,San Francisco,CA,180000,225000,"Image Processing, OpenCL, SLAM, Software Engineer, Software Developer, projective geometry, sfm","Must have knowledge or experience of the following:  - 5+ years of experience as a Software Engineer 
+- Experience with OpenCL, ASL, AMD, or similar 
+- Experience with Signal Processing  
+- Experience with CUDA 
+ 
+ 
+Pluses: 
+- Algorithm development  
+- Autonomous Industry 
+- Experience with RF signaling",MO5-1668751,01/11/2022
+23,Annandale,VA • Seattle,110000,180000,"C++, REACT, Node.js, Senior Software Engineer, Software Engineer, Software Developer, C#, Rest, SQL, Azure","- C++ - REACT 
+- Node.js 
+- Senior Software Engineer 
+- Software Engineer 
+- Software Developer 
+- C# 
+- Rest 
+- SQL 
+- Azure",AG17-1674224,02/09/2022
+24,Dayton,OH,80000,100000,"ASP.NET, C#, SQL, JavaScript, Agile, Angular, API, Web API, MVC, Entity",We're a great company to work for and we need someone who wants to be part of our team. * Good experience with C# * JavaScript * Full stack experience (or desire) - Hands on - Great attitude,BW4-1488208,04/22/2020
+25,Columbia,MD,120000,180000,"TS/SCI with Polygraph, Rest, Java, AWS, Kubertenes, Interface","- TS/SCI with Polygraph 
+2+ years experience in the following:  
+- Rest 
+- AWS 
+- Java 
+- Interface 
+- Kubernetes",CC18-1623254,11/30/2021
+26,Phoenix,AZ,120000,160000,"JavaScript, TypeScript, Test Driven Development, Unit Testing, AWS, Intellij, EventBridge, CI/CD, Healthcare Protocols, Vue.js","Required: 
+- 7+ years developing software 
+ 
+- 5+ years with Unit Testing Frameworks 
+ 
+- 5+ years with object-oriented methods 
+ 
+- 5+ years with JavaScript/Typescript 
+ 
+- 3+ years experience with Test Driven Development 
+ 
+- 2+ years experience with microservices (AWS Lambda, EventBridge or DynamoDB) 
+ 
+ 
+ 
+ 
+ 
+ 
+Preferred: 
+ 
+- EventBridge building experience 
+ 
+- IntelliJ 
+ 
+- Java 
+ 
+- GitHub 
+ 
+- CI/CD 
+ 
+- Vue.js 
+ 
+- REST API 
+ 
+- Domain Driven Design 
+ 
+- DICOM, HL7 or FHIR 
+ 
+- Healthcare Tech",ET3-1660075,02/14/2022
+27,Cambridge,MA,130000,190000,"Python, Vue.js, Postgres, Django","- 5+ years of experience - Python 
+- Vue.js 
+- Postgres 
+- Django",CC18-1661558,02/11/2022
+28,Atlanta,GA,100000,130000,"Java, Spring, Rest, WildFly, Tomcat, API","- Bachelor of Information Technology (IT) or Computer Science - 3+ years of experience with Java  
+- Experience with Java build tools such as Ant or Maven 
+- Experience with application servers such as WildFly, Tomcat, JBoss 
+- Experience with Spring and other Java frameworks / open source libraries 
+- Experience with SOA and Web Services (REST/SOAP) 
+- Experience with modern JavaScript frameworks and APIs 
+-Experience in Agile methodologies 
+ 
+Desirable Skills 
+- Experience designing and implementing frontend applications 
+- Experience with API Management platforms 
+- Experience with cloud serverless applications 
+- Experience with mobile/tablet development including responsive design and hybrid applications",PT3-1661657,02/04/2022
+29,San Diego,CA,120000,180000,"AWS, Python, Lambda, DynamoDB, Aurora, API Gateway","- 4+ years of experience  - AWS 
+- Python 
+- Lambda 
+- DynamoDB 
+- Aurora 
+- API Gateway",CC18-1662251,11/18/2021
+30,San Francisco,CA,150000,225000,"REACT, JavaScript, TypeScript, CSS, React Native, Apollo Graphql, Node.js, graphql","At least 3+ years experience with.. - React 
+- React Native 
+- JavaScript 
+- TypeScript 
+- Apollo Graphql",DQ2-1662398,12/10/2021
+31,Miami,FL,190000,200000,"Python, Docker, AWS, dev ops, Software Development","3-5 Years of Experience with:  - Python 
+- Docker 
+- AWS (Preferred)",AR14-1665728,12/13/2021
+32,Santa Monica,CA,140000,170000,"C#, Kafka, .NET Core, DynamoDB, CloudFormation, IAC, Databases, Message Tooling","- 5+ years of experience in Software Development or related field  - Bachelor's degree in Computer Science or related preferred 
+- 5+ years of experience coding with C#, .Net Core,  
+- Extensive background with Kafka and DynamoDB 
+- Experience with Cloud Platforms like AWS or Azure 
+- Strong background in IaC with tools like CloudFormation or Terraform 
+- Experience developing/ incorporating Microservices 
+- JavaScript (React) experience helpful  
+- Experience with Kubernetes and or Docker development 
+- Non-relational database experience  
+- Message Tooling experience",CO3-1665870,12/13/2021
+33,Raleigh,NC,130000,160000,"JavaScript, TypeScript, Test Driven Development, Unit Testing, AWS, EventBridge, Intellij, Vue.js, CI/CD, Healthcare Protocols","Required: 
+- 7+ years developing software 
+ 
+- 5+ years with Unit Testing Frameworks 
+ 
+- 5+ years with object-oriented methods 
+ 
+- 5+ years with JavaScript/Typescript 
+ 
+- 3+ years experience with Test Driven Development 
+ 
+- 2+ years experience with microservices (AWS Lambda, EventBridge or DynamoDB) 
+ 
+ 
+ 
+ 
+ 
+ 
+Preferred: 
+ 
+- EventBridge building experience 
+ 
+- IntelliJ 
+ 
+- Java 
+ 
+- GitHub 
+ 
+- CI/CD 
+ 
+- Vue.js 
+ 
+- REST API 
+ 
+- Domain Driven Design 
+ 
+- DICOM, HL7 or FHIR 
+ 
+- Healthcare Tech",KC16-1656867,02/14/2022
+34,New York,NY,120000,170000,"C#, .NET, SQL, API","At least 7 years of experience with: - C# 
+- .NET 
+- SQL 
+-Angular 
+ 
+Nice to haves: 
+-Javascript 
+- API 
+-Azure",KT5-1665940,02/08/2022
+35,Miami,FL,55000,160000,"dev ops, CI/CD, Kubernetes, Docker, Jenkins, Terraform, Ansible, Bash, Python","At least 3+ years experience with:  - HTML5 
+- CSS3   
+- PHP 
+- Python 
+- Ruby 
+- .NET 
+- JavaScript 
+- Linux 
+- AWS 
+- MySQL 
+- UI  
+ - Ansible 
+- chef 
+- puppet 
+-  Docker 
+- Vagrant 
+- Nagios 
+- Jenkins 
+- Shell 
+- Perl",NI1-1666036,12/14/2021
+36,Hartford,CT,85000,100000,"SQL, ASP.NET, C#, SQL Server","- 7+ years of programming experience working with the Microsoft Technology stack, ASP.NET, C#, Visual Studio - 5+ years working with SQL Server writing TSQL queries 
+- Experience architecting, designing and developing solutions",RK3-1665587,12/10/2021
+37,Boise,ID,150000,225000,"REACT, JavaScript, TypeScript, CSS, React Native, Apollo Graphql, Node.js, graphql","At least 3+ years experience with.. - React 
+- React Native 
+- JavaScript 
+- TypeScript 
+- Apollo Graphql",DQ2-1662597,12/10/2021
+38,St. Louis,MO,150000,225000,"REACT, JavaScript, TypeScript, CSS, React Native, Apollo Graphql, Node.js, graphql","At least 3+ years experience with.. - React 
+- React Native 
+- JavaScript 
+- TypeScript 
+- Apollo Graphql",DQ2-1662598,12/10/2021
+39,Portland,OR,150000,225000,"REACT, JavaScript, TypeScript, CSS, React Native, Apollo Graphql, Node.js, graphql","At least 3+ years experience with.. - React 
+- React Native 
+- JavaScript 
+- TypeScript 
+- Apollo Graphql",DQ2-1662600,12/10/2021
+40,Baltimore,MD • Philadelphia,130000,160000,"Python, RUBY, REACT, PHP","- 5+ years developing software in commercial environment - 5+ years of experience with Ruby or Python or PHP 
+- Experience in building RESTful APIs 
+- 2+ years of experience with frontend frameworks (ideally React) 
+- Experience in building integrations with third-party APIs with REST, SOAP, XMLRPC, etc",LP10-1667431,12/28/2021
+41,Chicago,IL • Bradley,95000,120000,"C#/.NET, Windows Forms/ASP.NET MVC, Visual Studio, RDBMS/SQL, Functional Programming, Data Structures, Computer Theory, Compiler Design, Machine Learning/Pattern/Image Recognition, Advanced Algorithms","Qualifications: - BS Degree or higher 
+- Analytical Software Design and Development 
+- Compiler Design, Advanced Algorithms, Data Structures, Computer Theory, Machine Learning, Pattern/Image Recognition 
+Tech Stack: 
+- C# (Windows Forms, ASP.NET MVC) 
+- SQL 
+- Visual Studio",TS2-1670183,02/10/2022
+42,Boca Raton,FL,55000,160000,"dev ops, CI/CD, Kubernetes, Docker, Jenkins, Terraform, Ansible, Bash, Python","At least 3+ years experience with:  - HTML5 
+- CSS3   
+- PHP 
+- Python 
+- Ruby 
+- .NET 
+- JavaScript 
+- Linux 
+- AWS 
+- MySQL 
+- UI  
+ - Ansible 
+- chef 
+- puppet 
+-  Docker 
+- Vagrant 
+- Nagios 
+- Jenkins 
+- Shell 
+- Perl",NI1-1670217,01/18/2022
+43,West Des Moines,IA,80000,140000,"REACT, Python, Webpack, Formik, Material UI","-3 years of experience - REACT 
+- Python 
+- Webpack 
+- Formik 
+- Material UI",CC18-1670286,01/18/2022
+44,Emeryville,CA • Austin,80000,160000,"Python, Docker, Linux, GIT, Kubernetes, CI/CD, NoSQL, AWS, graphql","- 2+ years of experience  - Python 
+- Docker 
+- Linux 
+- GIT 
+- Kubernetes 
+- CI/CD 
+- NoSQL 
+- AWS 
+- graphql",CC18-1670614,01/19/2022
+45,Venice,CA,100000,175000,"APIs, Python, Golang, Node.js, NoSQL, MongoDB, GCP, AWS","- 3+ years of experience in backend web development - Experienced building scalable backend APIs 
+- Experience with Python, Golang, and/or Node.js 
+- Experience with NoSQL Databases (MongoDB) 
+- Experience with DevOps and modern cloud technologies (GCP, AWS, etc.) [preferred]",PT3-1670714,01/19/2022
+46,Butler,PA,70000,100000,"C, C++, VC++, C#, .NET, Matlab, Robotics Programming, OPC UA, TCP/IP Programming, DSP Programming","- Bachelors Degree in Electrical Engineering, Software Engineering or Computer Engineering - C/C++ 
+- VC++ 
+- C# 
+- .NET (Windows Forms, WPF, UWP) 
+- Matlab 
+- Windows 7, Window 10, Linux 
+- Robotics Programming 
+- OPC UA,  TCP/IP Programming, DSP Programming, VHDL, Motion Controller Programming, Signal and Image processing are pluses",AT-1670722,01/19/2022
+47,Boston,MA • Jacksonville,160000,225000,"Performance Tuning, Java, Scala, Kafka, Linux, SaaS, Parallelism, merging datasets, AWS, Google Cloud","Required Experience: - Performance Tuning 
+- Java 
+- Scala 
+- Kafka 
+- Linux 
+ 
+Preferred Experience: 
+- SaaS Background 
+- Parallelism, Locking Strategies, Merging Datasets 
+- AWS 
+- Google Cloud",DF7-1670753,01/21/2022
+48,Panama City Beach,FL,75000,120000,"C++, C#, UI, GIT, GitLab, dev ops, AWS, Atlassian, 3D Simulations, Sec Ops","Previous experience with the following tools: 
+- C++ / C# 
+- UI 
+- GIT /GitLab 
+- DevOps / SecOps 
+- Cloud / AWS 
+- Atlassian Tools 
+- 3D Simulations 
+- Algorithms 
+ 
+YOU MUST BE CAPABLE OF OBTAINING A SECRET SECURITY CLEARENCE",CC21-1670773,01/25/2022
+49,Cambridge,MA,110000,130000,"C++, Unix, Linux, JavaScript, HTML5","- C++ - Node.js 
+- Unix/Linux OS 
+ 
+ 
+Plus Skills: 
+- Javascript/HTML5 (especially React/Redux) 
+- Building cross-platform C++ applications 
+- Experience implementing security features for networked applications (includes Internet and WWW development) 
+- streaming media 
+- WebRTC for real-time communications 
+- Machine Learning (AI) frameworks and technologies",JS27-1670868,02/02/2022
+50,Boston,MA,100000,150000,"C++, Python, Embedded Systems, Tensorflow","- 2+ Years of Experience: - C++ 
+- Python 
+- Embedded Systems on Chips 
+- Tensorflow 
+- Bachelors Degree",JA12-1670893,01/21/2022
+51,Salt Lake City,UT • Denver,80000,120000,"Software Engineering, PHP, Native JavaScript, HTML/CSS, Modern JS Frameworks, JQuery","Qualifications: - BS Degree CS or similar 
+- 3-5+ years' Software Engineering 
+- PHP, HTML/CSS, JavaScript, Modern JS Frameworks, JQuery 
+- SQL/MySQL/PostgreSQL/SQL Server or similar 
+- React, Apollo/GraphQL, Express, Node, Sequelize, Socket.io 
+- Azure/Azure DevOps, Git 
+BONUS: 
+- PBM/Pharmacy Benefit Management, Health Plans 
+- Start-up SaaS in similar space",TS2-1670932,02/10/2022
+52,Islandia,NY,100000,150000,"RUBY, Rails, Ruby On Rails, REACT, JavaScript, Cucumber, Rspec, application, Mobile, dev ops","Qualifications: - Ruby / Rails 
+- React (or some other JS front-end framework) 
+- Cucumber or RSpec  experience with automated testing & code coverage 
+- Any native iOS, Android or Flutter experience is very desirable (but flexible) 
+- 5 years of experience or more 
+- Any Experience in DevOps is a plus 
+ 
+For engineers looking to expand their skills, here are some of the other technologies we have in place that you'd gain exposure to: 
+- Semantic UI 
+- Mobile App - Flutter / Dart 
+- CICD - Docker / CircleCI / Github Actions / Fastlane / Firebase 
+- Infrastructure - Terraform / Kubernetes / AWS / API Gateway / Kinesis / Datadog 
+- PHP / MySQL",CC21-1670956,01/21/2022
+53,Mesa,AZ,70000,95000,"SQL, Microsoft Office, C#, MVC, .Net 4.0, CSS, ASP.NET, JavaScript, HTML","- SQL - Microsoft Office 
+- C# 
+- MVC 
+- .Net 4.0 
+- CSS 
+- ASP.NET 
+- JavaScript 
+- HTML",AH15-1670966,01/21/2022
+54,Sandy,UT,130000,150000,"MS Visual Studio, SQL Server, .NET, C#, ASP.NET, MVC, HTML, Azure, CSS, JS","- 5+ years of related experience in web and software development using C# and ASP.NET. - Hands on development experience in developing REST APIs. 
+- MS Visual Studio 
+- SQL Server 
+- .NET 
+- C# 
+- ASP.NET 
+- MVC 
+- HTML 
+- Azure 
+- CSS 
+- JS",AH15-1670995,01/21/2022
+55,Philadelphia,PA,80000,100000,"REST API, Java, BPM, PEGA, Decisions, Appian, IBM BPM, Angular, REACT, ViewJS","At least 5 years of experience -Software Development 
+ 
+At least 3 years of experience 
+- Java 
+-REST API 
+ 
+Nice to Have 
+-BPM Tool (PEGA, Decisions, Appian, IBM BPM) 
+- UI frameworks (Angular, React, ViewJS) 
+-Agile/Scrum",KT5-1663890,01/04/2022
+56,Austin,TX,150000,225000,"REACT, JavaScript, TypeScript, CSS, React Native, Apollo Graphql, Node.js, graphql","At least 3+ years experience with.. - React 
+- React Native 
+- JavaScript 
+- TypeScript 
+- Apollo Graphql",DQ2-1662596,12/10/2021
+57,Las Vegas,NV,150000,225000,"REACT, JavaScript, TypeScript, CSS, React Native, Apollo Graphql, Node.js, graphql","At least 3+ years experience with.. - React 
+- React Native 
+- JavaScript 
+- TypeScript 
+- Apollo Graphql",DQ2-1662599,12/10/2021
+58,San Francisco,CA,120000,180000,"REACT, Python, Terraform, PostgreSQL, Flask, MySQL, MSSQL, Snowflake, AWS","-2 years of experience  - REACT 
+- Python  
+- PostgreSQL 
+- Flask 
+- Kubernetes 
+- Terraform 
+- graphql",CC18-1627938,01/31/2022
+59,Seattle,WA,140000,160000,"Azure, Express.js, Meteor, NodeJS, Rest, OpenAI, MySQL, HTML, JQuery, S3","Must have: - 3+ years engineering experience as a Software Engineer  
+- Tech stack: Agnostic (strong full stack): Python, Node, Javascript, Golang 
+- Experience with Microservices 
+- Experience with APIs 
+- Cloud Technologies 
+ 
+Pluses: 
+- Start-up environments or early stage companies 
+- Experience w/ GraphQL 
+- Experience w/ Typescript",MO5-1664773,02/04/2022
+60,Houston,TX,100000,160000,"Software Development, Smart Contracts, Blockchain, Solidity, Java, C++, Cryptography, API, ABI, NFT","At least 3 years experience with: - Software Development 
+- Smart Contracts 
+- Blockchain 
+- Solidity, Java, C++ 
+- Cryptography 
+- APIs, ABIs 
+- NFT experience is a plus!",TD9-1666282,02/07/2022
+61,Los Angeles,CA,NA,NA,"Python, Flask, REACT, AWS","2+ years of experience building web apps Experience with Python, Flask, and Postgres 
+Excellent communicator and collaborator; able articulate trade offs and expectations to technical and non-technical stakeholders 
+Production experience with React 
+Terraform and AWS experience 
+Experience with Python ORMs 
+CI/CD pipelines",AS17-1638361,07/23/2021
+62,Atlanta,GA,55000,160000,"dev ops, CI/CD, Kubernetes, Docker, Jenkins, Terraform, Ansible, Bash, Python","At least 3+ years experience with:  - HTML5 
+- CSS3   
+- PHP 
+- Python 
+- Ruby 
+- .NET 
+- JavaScript 
+- Linux 
+- AWS 
+- MySQL 
+- UI  
+ - Ansible 
+- chef 
+- puppet 
+-  Docker 
+- Vagrant 
+- Nagios 
+- Jenkins 
+- Shell 
+- Perl",NI1-1666568,12/16/2021
+63,Katy,TX,70000,100000,"C/C++, Azure and/or AWS, Software Design/Controls Design, Strong Math and Analytical Skills, .NET, Python, IPv4/IPv6 Networking, IoT/Field Device Management, Data Analytics, Network/CyberSecurity Standards","Qualifications: - BS Degree in CS or similar 
+- 2-5 years of hands-on development in C/C++ 
+- .NET and/or Python nice to have 
+- Strong understanding of data analytics 
+- Strong math and analytical mindset 
+- Customer-facing skills or interest in dealing with customers 
+- Willing to jump in on different engineering tasks 
+- Willing to be onsite 3-4 days a week 
+ 
+BONUS/Preferred 
+- IPv4/IPv6 Networking  
+- Azure and/or AWS 
+- IoT/Field Device Management 
+- Network/CyberSecurity Protocols, Standards, and best-practices 
+- Managing servers on the cloud",TS2-1666584,01/15/2022
+64,Cornelius,NC,95000,120000,"Python, C++, C#, RTOS",""" Bachelor's Degree in Electrical Engineering, Computer Engineering, Computer Science, or equivalent in experience and proven track record. 
+"" 3+ years experience with Embedded/Hardware systems development and implementation 
+"" Solid background in embedded firmware systems and developing in C++, C#, Python. 
+"" Experience developing in an RTOS environment 
+"" Experience in interfacing power conversion equipment 
+"" Capability of delivering high-quality code in an embedded environment",DG9-1666688,12/17/2021
+65,Irvine,CA,100000,140000,"C++, JavaScript, Agile, Python, Control Systems, simulations, Virtualization, CMMI, Transportation Industry, Autonomous software","5+ years experience: 
+- C++ 
+- Python 
+- JavaScript 
+- Agile development process 
+ 
+PLUS Skills: 
+ 
+- Control Systems 
+- Simulations 
+- Virtualization 
+- CMMI 
+- Transportation Industry 
+- Autonomous software",NS6-1643424,11/17/2021
+66,New Brunswick,NJ,100000,150000,"ASP.NET, MVC, Angular, .NET, C#, Docker, C, C++, JavaScript","- AWS Cloud experience  - .NET, Angular 
+- angular 
+- C#, C, C++ experience  
+- JavaScript",DB13-1652753,10/22/2021
+67,Lebanon,NH,110000,150000,"REACT, TypeScript, JavaScript, Cloud, graphql, Rest, Node.js, electron, Serverless Architecture, Linux","- 3+yrs REACT - JavaScript or TypeScript 
+- Additional experience in software development/design patterns 
+ 
+It is a plus if you have experience in: 
+- Cloud 
+- GraphQL 
+- Rest 
+- Node.js 
+- Electron 
+- Serverless Architecture 
+- Linux and Windows",CH-1632523,02/09/2022
+68,Austin,TX,100000,150000,"REACT, TypeScript, JavaScript, Cloud, graphql, Rest, Node.js, electron, Serverless Architecture, Linux","- 3+yrs REACT - JavaScript or TypeScript 
+- Additional experience in software development/design patterns 
+ 
+It is a plus if you have experience in: 
+- Cloud 
+- GraphQL 
+- Rest 
+- Node.js 
+- Electron 
+- Serverless Architecture 
+- Linux and Windows",CH-1632526,02/09/2022
+69,Tempe,AZ,85000,130000,"Asp, Classic ASP, MySQL, JavaScript, VBScript, HTML5, CSS3, JQuery, XML, PHP","At least 2-5 years experience with - ASP 
+- Classic ASP 
+- MySQL 
+- JavaScript 
+- VBScript 
+- HTML5 
+- CSS3 
+- JQuery 
+- XML 
+- PHP",AH15-1668635,01/07/2022
+70,Denver,CO,100000,150000,".NET, Angular.js, TypeScript, Rest, API, NoSQL, MySQL, GIT","Required experience - 3 years software development experience  
+- .NET 
+- Angular or TypeScript 
+- Azure 
+ 
+Nice to haves: 
+- Rest APIs 
+- NoSQL/MySQL 
+- IoC Containters (Autofac/Unity/Ninject)",PL4-1673954,02/08/2022
+71,Boise,ID,100000,120000,"React.JS, Node.js, Azure, SQL Server, C#, .NET, JavaScript, SQL","At least 2-3 years of experience with: 
+- Javascript (React.JS) 
+- SQL 
+ 
+Nice to haves: 
+ 
+- Node.js 
+- Azure 
+- C# 
+- .NET",MB6-1673993,02/08/2022
+72,Hawthorne,CA,80000,130000,"C++, Front End, Distributed Systems, Ecosystem, AWS, GCP, Kubernetes, SPARK, Hadoop, Flink","- AWS Cloud experience - GCP, Kubernetes 
+- C++ 
+- Spark, Hadoop, Flink",DB13-1653557,10/22/2021
+73,Oakland,CA,80000,130000,"C++, Front End, Distributed Systems, Ecosystem, AWS, GCP, Kubernetes, SPARK, Hadoop, Flink","- AWS Cloud experience - GCP, Kubernetes 
+- C++ 
+- Spark, Hadoop, Flink",DB13-1653558,10/22/2021
+74,Los Angeles,CA,80000,130000,"C++, Front End, Distributed Systems, Ecosystem, AWS, GCP, Kubernetes, SPARK, Hadoop, Flink","- AWS Cloud experience - GCP, Kubernetes 
+- C++ 
+- Spark, Hadoop, Flink",DB13-1653559,10/22/2021
+75,Atlanta,GA,90000,150000,"ASP.NET, MVC, Angular, .NET, C#, Docker, C, C++, JavaScript","- AWS Cloud experience  - .NET, Angular 
+- angular 
+- C#, C, C++ experience  
+- JavaScript",DB13-1653561,10/22/2021
+76,Miami,FL,90000,150000,"ASP.NET, MVC, Angular, .NET, C#, Docker, C, C++, JavaScript","- AWS Cloud experience  - .NET, Angular 
+- angular 
+- C#, C, C++ experience  
+- JavaScript",DB13-1653562,10/22/2021
+77,Los Angeles,CA,90000,150000,"ASP.NET, MVC, Angular, .NET, C#, Docker, C, C++, JavaScript","- AWS Cloud experience  - .NET, Angular 
+- angular 
+- C#, C, C++ experience  
+- JavaScript",DB13-1653563,10/22/2021
+78,Seattle,WA,90000,150000,"ASP.NET, MVC, Angular, .NET, C#, Docker, C, C++, JavaScript","- AWS Cloud experience  - .NET, Angular 
+- angular 
+- C#, C, C++ experience  
+- JavaScript",DB13-1653564,10/22/2021
+79,Portland,OR,90000,150000,"ASP.NET, MVC, Angular, .NET, C#, Docker, C, C++, JavaScript","- AWS Cloud experience  - .NET, Angular 
+- angular 
+- C#, C, C++ experience  
+- JavaScript",DB13-1653565,10/22/2021
+80,Lehi,UT,130000,150000,"MS Visual Studio, SQL Server, .NET, C#, ASP.NET, MVC, HTML, Azure, CSS, JS","- 5+ years of related experience in web and software development using C# and ASP.NET. - Hands on development experience in developing REST APIs. 
+- MS Visual Studio 
+- SQL Server 
+- .NET 
+- C# 
+- ASP.NET 
+- MVC 
+- HTML 
+- Azure 
+- CSS 
+- JS",AH15-1674411,02/11/2022
+81,Lehi,UT,130000,150000,"MS Visual Studio, SQL Server, .NET, C#, ASP.NET, MVC, HTML, Azure, CSS, JS","- 5+ years of related experience in web and software development using C# and ASP.NET. - Hands on development experience in developing REST APIs. 
+- MS Visual Studio 
+- SQL Server 
+- .NET 
+- C# 
+- ASP.NET 
+- MVC 
+- HTML 
+- Azure 
+- CSS 
+- JS",AH15-1674415,02/11/2022
+82,Washington,DC,70000,110000,"C#, .NET, Visual Studio, REACT, Angular, SQL","- Excellent understanding of C# and .NET Framework - Must have experience working with Visual Studio and IIS 
+- Working knowledge of development technologies including WCF, WPF, and Silverlight 
+- Knowledge of relational database and Structured Query Language (SQL) 
+- Object Oriented Design and familiarity with design patterns is a plus 
+- HTML5, CSS3 and React\Angular a plus",JG9-1674600,02/11/2022
+83,Phoenix,AZ,85000,130000,"Asp, Classic ASP, MySQL, JavaScript, VBScript, HTML5, CSS3, JQuery, XML, PHP","At least 2-5 years experience with - ASP 
+- Classic ASP 
+- MySQL 
+- JavaScript 
+- VBScript 
+- HTML5 
+- CSS3 
+- JQuery 
+- XML 
+- PHP",AH15-1667605,01/21/2022
+84,Saint Paul,MN,90000,100000,"C#, SQL, JavaScript, .NET/.NET CORE/Web API, ReactJS/AngularJS/VueJS or similar, Database Design: SQL/NoSQL/Entity/LINK to SQL, Azure/Serverless Functions, Microservices/Containerization, User-Facing UI/RESTful APIs/Modern Frontend, REST Services/Messaging","- BS Degree - C#, SQL, JavaScript 
+- .NET, .NET CORE and/or Web APIs 
+- Modern UI - React/Angular/Vue, etc.  
+- Database Design: SQL/NoSQL/Entity/LINK, etc.  
+- Azure/Azure Functions, Microservices, Containerization 
+- REST/RESTful 
+- Authorization/Authentication, Data Streaming, Messaging, RabbitMQ/Kafka, etc",TS2-1674083,02/09/2022
+85,Nashville,TN,95000,150000,"Python, C++, C#, RTOS",""" Bachelor's Degree in Electrical Engineering, Computer Engineering, Computer Science, or equivalent in experience and proven track record. 
+"" 3+ years experience with Embedded/Hardware systems development and implementation 
+"" Solid background in embedded firmware systems and developing in C++, C#, Python. 
+"" Experience developing in an RTOS environment 
+"" Experience in interfacing power conversion equipment 
+"" Capability of delivering high-quality code in an embedded environment",DG9-1667696,01/03/2022
+86,Dallas,TX,140000,160000,"dev ops, CI/CD, Kubernetes, Docker, Jenkins, Terraform, Ansible, Bash, Python","At least 3+ years experience with:  - HTML5 
+- CSS3   
+- PHP 
+- Python 
+- HTML5  
+- JavaScript 
+- Linux 
+- AWS 
+- MySQL",NI1-1674134,02/09/2022
+87,Katy,TX,70000,100000,"C/C++, Data Analytics, Strong Math and Analytical Skills, Software Design/Controls Design, .NET, Python, IPv4/IPv6 Networking, Azure and/or AWS, IoT/Field Device Management, Network/CyberSecurity Standards","Qualifications: - BS Degree in CS or similar 
+- 1-3+ years of hands-on development in C/C++ 
+- Strong understanding of data analytics 
+- Strong math and analytical mindset 
+- Customer-facing skills or interest in dealing with customers 
+- Willing to jump in on different engineering tasks 
+- Willing to be onsite 3-4 days a week 
+ 
+BONUS/Nice to have 
+- .NET and/or Python 
+- IPv4/IPv6 Networking  
+- Azure and/or AWS 
+- IoT/Field Device Management 
+- Network/CyberSecurity Protocols, Standards, and best-practices 
+- Managing servers on the cloud",TS2-1667160,01/15/2022
+88,New York,NY,110000,150000,"Shopify, ECommerce, HTML, CSS, Vue.js, Tailwind, Webpack, JavaScript, APIs, graphql","At least 2 years experience with the following.. 
+- JavaScript 
+- Shopify 
+- ECommerce 
+- SaaS 
+- HTML 
+- CSS 
+- Vue.js 
+- Tailwind 
+- Webpack 
+- APIs 
+- GraphQL 
+- Git 
+- Nuxt.js experience & previous agency experience is a plus!!",KP9-1672469,01/31/2022
+89,Miami,FL,55000,160000,"dev ops, CI/CD, Kubernetes, Docker, Jenkins, Terraform, Ansible, Bash, Python","At least 3+ years experience with:  - HTML5 
+- CSS3   
+- PHP 
+- Python 
+- Ruby 
+- .NET 
+- JavaScript 
+- Linux 
+- AWS 
+- MySQL 
+- UI  
+ - Ansible 
+- chef 
+- puppet 
+-  Docker 
+- Vagrant 
+- Nagios 
+- Jenkins 
+- Shell 
+- Perl",NI1-1668322,01/05/2022
+90,Gardena,CA • Chicago,120000,140000,"React.JS, Next.js, Node.js, graphql, AWS, API, Shopify, ECommerce, Kubernetes, Python","3+ Years of Experience With: 
+Required: 
+ 
+- React.JS 
+ 
+- Node.js 
+ 
+- GraphQL 
+ 
+- AWS 
+ 
+- API's 
+ 
+-Data Driven Applications 
+ 
+ 
+ 
+ 
+Desired: 
+ 
+- ECommerce Tools (Shopify preferred) 
+ 
+- Kubernetes 
+ 
+- Python 
+ 
+- Customer Facing Applications 
+ 
+ 
+ 
+ 
+*Currently this position is 100% remote, but post Covid the position will be a Hybrid position (50% Remote / 50% On Site in LA or Chicago)",ET3-1668342,01/25/2022
+91,New York,NY,100000,200000,"AWS, Python, Java, Biotech, Bioinformatics, LIMS","- AWS - Python 
+- Java 
+- Biotech/ Bioinformatics (Experience in Laboratory setting a plus)",JJ9-1668974,01/10/2022
+92,San Mateo,CA,120000,180000,"C#, AWS, .NET, Azure, Docker, Linux, SQL, MySQL, Multi-Threading","- 2-5 years of experience - C# 
+- AWS 
+- .NET 
+- Azure 
+- Docker 
+- Linux 
+- SQL 
+- MySQL",CC18-1648197,10/08/2021
+93,New Windsor,NY,75000,100000,"Software Development, Data Structures, Algorithms, Java, C++, Python, Unit Testing (Junit), SQL Server","Experience with: - Programming with Java, C++, or Python 
+- Enterprise Software Environments 
+- Data Structures and Algorithms",MY1-1669016,01/27/2022
+94,Tampa,FL,90000,130000,"C#, Visual Basic, .NET, SQL, Python, Angular, JavaScript, CSS, REACT","- C# - Visual Basic 
+- .NET 
+- SQL 
+- Python 
+- Angular 
+- JavaScript 
+- CSS 
+- REACT",AH15-1669050,01/21/2022
+95,Olympia,WA,75000,110000,"Software, C#, Agile, .NET, SCRUM, applications, Azure, Jenkins",""" C# . NET, Agile and Scrum  ""  Experience with continuous integration, build processes and deployment tools like Azure DevOps, Jenkins, Teamcity, Octopus Deploy, docker/containers, etc. 
+	"" Familiar with SQL Server Reporting Services (SSRS) 
+Experience with Windows Communication Foundation (WCF) or gRPC is a plus",DZ2-1669057,01/10/2022
+96,Oviedo,FL,65000,100000,"Simulation, Unity, C++, Unreal, OFT, WST","- Simulation - Unity 
+- C++ 
+- Unreal 
+- OFT 
+- WST",KE2-1648006,01/31/2022
+97,Cedar Park,TX,100000,150000,".NET, .NET Core, SDLC, Azure, C#, AWS, orleans, SQL, Microsoft","4+ years of Software Development experience.  
+Must have experience with Microsoft Orleans. 
+ 
+You should know most of the following: 
+ 
+- .NET 
+- SDLC 
+- Azure 
+- C#, SQL",RR7-1668599,01/10/2022
+98,Mesa,AZ,85000,130000,"Asp, Classic ASP, MySQL, JavaScript, VBScript, HTML5, CSS3, JQuery, XML, PHP","At least 2-5 years experience with - ASP 
+- Classic ASP 
+- MySQL 
+- JavaScript 
+- VBScript 
+- HTML5 
+- CSS3 
+- JQuery 
+- XML 
+- PHP",AH15-1668637,01/07/2022
+99,Glendale,AZ,85000,130000,"Asp, Classic ASP, MySQL, JavaScript, VBScript, HTML5, CSS3, JQuery, XML, PHP","At least 2-5 years experience with - ASP 
+- Classic ASP 
+- MySQL 
+- JavaScript 
+- VBScript 
+- HTML5 
+- CSS3 
+- JQuery 
+- XML 
+- PHP",AH15-1668638,01/07/2022
+100,Tucson,AZ,85000,130000,"Asp, Classic ASP, MySQL, JavaScript, VBScript, HTML5, CSS3, JQuery, XML, PHP","At least 2-5 years experience with - ASP 
+- Classic ASP 
+- MySQL 
+- JavaScript 
+- VBScript 
+- HTML5 
+- CSS3 
+- JQuery 
+- XML 
+- PHP",AH15-1668639,01/07/2022
+101,Redwood City,CA • Chicago,130000,150000,"Java, OOP, SaaS, NoSQL, SOA","At Least 3 Years Experience:  - Java 
+- OOP 
+- SaaS 
+- NoSQL 
+- SOA",AD10-1668774,02/07/2022
+102,Dallas,TX,95000,120000,"Python, C++, C#, RTOS",""" Bachelor's Degree in Electrical Engineering, Computer Engineering, Computer Science, or equivalent in experience and proven track record. 
+"" 3+ years experience with Embedded/Hardware systems development and implementation 
+"" Solid background in embedded firmware systems and developing in C++, C#, Python. 
+"" Experience developing in an RTOS environment 
+"" Experience in interfacing power conversion equipment 
+"" Capability of delivering high-quality code in an embedded environment",DG9-1668798,01/07/2022
+103,Houston,TX,95000,120000,"Python, C++, C#, RTOS",""" Bachelor's Degree in Electrical Engineering, Computer Engineering, Computer Science, or equivalent in experience and proven track record. 
+"" 3+ years experience with Embedded/Hardware systems development and implementation 
+"" Solid background in embedded firmware systems and developing in C++, C#, Python. 
+"" Experience developing in an RTOS environment 
+"" Experience in interfacing power conversion equipment 
+"" Capability of delivering high-quality code in an embedded environment",DG9-1668800,01/07/2022
+104,Charlotte,NC,95000,120000,"Python, C++, C#, RTOS",""" Bachelor's Degree in Electrical Engineering, Computer Engineering, Computer Science, or equivalent in experience and proven track record. 
+"" 3+ years experience with Embedded/Hardware systems development and implementation 
+"" Solid background in embedded firmware systems and developing in C++, C#, Python. 
+"" Experience developing in an RTOS environment 
+"" Experience in interfacing power conversion equipment 
+"" Capability of delivering high-quality code in an embedded environment",DG9-1668801,01/07/2022
+105,New Orleans,LA,95000,120000,"Python, C++, C#, RTOS",""" Bachelor's Degree in Electrical Engineering, Computer Engineering, Computer Science, or equivalent in experience and proven track record. 
+"" 3+ years experience with Embedded/Hardware systems development and implementation 
+"" Solid background in embedded firmware systems and developing in C++, C#, Python. 
+"" Experience developing in an RTOS environment 
+"" Experience in interfacing power conversion equipment 
+"" Capability of delivering high-quality code in an embedded environment",DG9-1668802,01/07/2022
+106,Huntsville,AL,140000,160000,"C#, ASP.NET, PHP, MySQL, JavaScript, JQuery, C++","- C# - ASP.NET 
+- PHP 
+- MySQL 
+- JavaScript 
+- JQuery 
+- C++ 
+-Travel: 10% 
+-Must be a U.S. Citizen",AH15-1668874,01/08/2022
+107,Austin,TX • Denver,120000,180000,"Python, Node.js, Golang, AWS","Python development AWS Tools 
+Helping us build the next generation of mobile apps & frameworks for our innovative wearables & service",EO1-1672775,02/09/2022
+108,Trenton,NJ,75000,150000,"2D, 3D, Graphics, C++, visualization, OpenGL, .NET, Medical Imaging, Human Anatomy, WebGL","You should have at least 2+ years of experience and knowledge of:  
+- 2D/3D graphics 
+- C++ 
+- visualization development 
+- OpenGL/WebGL 
+- .NET 
+ 
+Nice to have: 
+- Medical Imaging experience 
+- Human Anatomy knowledge",IH1-1672664,02/14/2022
+109,Raleigh,NC,110000,150000,"C#, Java, AWS, .NET, SQL Server, Payments, CI/CD, GIT","-3-5 years experience overall as a software engineer. -Advanced level understanding of C# and Java. 
+-.NET framework experience strongly desired. 
+-Experience working with AWS and/or Azure essential; certifications an advantage. 
+-Experience in digital payments industry vertical an advantage, but not required.",SH7-1669529,01/12/2022
+110,San Francisco,CA,120000,170000,"Spring Boot, AWS, REACT, NODE, CSS, graphql, Rest, Java, HTML, GCP","5+ Years Software Engineer Experience 
+- Java 
+- RESTful services 
+- Spring Boot 
+- AWS or GCP 
+- React",KD5-1669858,02/07/2022
+111,Detroit,MI • Indianapolis,90000,100000,"GIT, CI/CD, Automated Testing, Linux/UNIX, Shell scripts, Command Line, Kubernetes, Terraform, Devops, Agile","-2+ years professional software development experience - Proficiency in range of AWS tools (EKS, AMI, RDS, Cloud Watch, IAM, S3, R53) 
+- GIT 
+- CI/CD pipelines, Automated Testing 
+- Professional release management practices 
+- Linux/UNIX 
+- Shell scripts, Command Line 
+- Kubernetes 
+- Cloud Languages / tools (Golang, Terraform, Helm, Kustomize) 
+- Devops environment 
+- Agile/Scrum methodology 
+Note* qualified applicants are required to complete a 30 min online assessment as part of the interview process.",SC7-1673334,02/10/2022
+112,Owings Mills,MD,80000,140000,"JavaScript, NODE, REACT, Express, FastiFy, sequelize, SaaS, Mobile, WCAG, OWASP","- 3+ years of experience  - JavaScript 
+- NODE 
+- REACT 
+- eXpress 
+- FastiFy 
+- sequelize 
+- SaaS 
+- Mobile 
+- Desktop",CC18-1669989,01/14/2022
+113,Tempe,AZ,70000,95000,"SQL, Microsoft Office, C#, MVC, .Net 4.0, CSS, ASP.NET, JavaScript, HTML","- SQL - Microsoft Office 
+- C# 
+- MVC 
+- .Net 4.0 
+- CSS 
+- ASP.NET 
+- JavaScript 
+- HTML",AH15-1670045,01/14/2022
+114,Hartford,CT • New York,100000,130000,"MuleSoft, CI/CD, Oauth, DataWeave, ACM, JavaScript, AWS, Java","- MuleSoft - CI/CD 
+- OAUTH 
+- DataWeave 
+- ACM 
+- JavaScript 
+- AWS 
+- Java",JM10-1671199,01/24/2022
+115,Twin Falls,ID • Dallas,100000,130000,"AWS, Python, Redshift, SQL, ATHENA, NoSQL, Data Warehousing","- Apache Spark RDDs and building data frames - AWS Redshift 
+- Python 
+- SQL 
+- Athena 
+- Git - Girflow - CI/CD",SL9-1671205,01/24/2022
+116,Trenton,NJ,75000,150000,"2D, 3D, QT, Graphics, C++, visualization, OpenGL, .NET, Medical Imaging, WebGL","You should have at least 2+ years of experience and knowledge of: 
+- 2D/3D graphics 
+- QT Programming 
+- OpenGL 
+- C++ 
+- visualization development 
+- OpenGL/WebGL 
+- .NET 
+ 
+Nice to have: 
+- Medical Imaging experience 
+- Human Anatomy knowledge",IH1-1674741,02/14/2022
+117,Seattle,WA,110000,150000,"REACT, TypeScript, JavaScript, Cloud, graphql, Rest, Node.js, electron, Serverless Architecture, Linux","- 3+yrs REACT - JavaScript or TypeScript 
+- Additional experience in software development/design patterns 
+ 
+It is a plus if you have experience in: 
+- Cloud 
+- GraphQL 
+- Rest 
+- Node.js 
+- Electron 
+- Serverless Architecture 
+- Linux and Windows",CH-1649590,02/09/2022
+118,Des Moines,IA • Houston,75000,90000,"C#, SQL, Java, Angular, JavaScript","- Bachelor's degree in Computer Science, Computer Engineering, or related field. - 3+ years recent professional software development experience using C# and SQL. 
+- Experience with Java, Angular, and/or Azure is preferred, but not required.",BO4-1671158,02/08/2022
+119,Boston,MA,100000,120000,"Python, AWS, Kubernetes, Docker, Postgres, Snowflake, Jenkins, Terraform, ETL","- 2+ years of professional experience  - Python 
+- AWS 
+- Kubernetes 
+- Docker 
+- Postgres 
+- Snowflake 
+- Jenkins 
+- Terraform 
+- ETL",CC18-1655973,10/13/2021
